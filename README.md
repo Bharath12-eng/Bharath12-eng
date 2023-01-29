@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+I am Bharath.P
+
+I am  Full-Stack Software-Developer 
 <!--
 **Bharath12-eng/Bharath12-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
